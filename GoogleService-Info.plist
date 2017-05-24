@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>189223672718-2d0j3500r13gp47pn2m0am1p1pe99ijh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.189223672718-2d0j3500r13gp47pn2m0am1p1pe99ijh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDX9OQDI7ly6jpTXG51FTFQEXr_sya3PNY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>189223672718</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.firebaseapp.oya-kae.</string>
+	<key>PROJECT_ID</key>
+	<string>oya-kae</string>
+	<key>STORAGE_BUCKET</key>
+	<string>oya-kae.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:189223672718:ios:b7f8868edccd48dd</string>
+	<key>DATABASE_URL</key>
+	<string>https://oya-kae.firebaseio.com</string>
+</dict>
+</plist>

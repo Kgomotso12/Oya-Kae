@@ -1,0 +1,9 @@
+{
+  "name": "Oya-kae",
+  "version": "1.0.0",
+  "dependencies": {
+    "firebase": "^3.6.7",
+    "jquery": "^3.1.1",
+    "moment": "^2.17.1"
+  }
+}

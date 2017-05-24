@@ -1,0 +1,35 @@
+<ion-side-menus enable-menu-with-back-views="false" style="">
+  <ion-side-menu-content>
+    <ion-nav-bar class="bar-positive">
+      <ion-nav-back-button></ion-nav-back-button>
+      <ion-nav-buttons side="left">
+        <button class="button button-icon button-clear ion-navicon" menu-toggle="left"></button>
+      </ion-nav-buttons>
+    </ion-nav-bar>
+    <ion-nav-view name="side-menu21"></ion-nav-view>
+  </ion-side-menu-content>
+  <ion-side-menu side="left" id="side-menu21">
+    <ion-header-bar class="bar-dark">
+      <div class="title">Oya-Kae
+        <i class="icon ion-model-s"></i>
+      </div>
+    </ion-header-bar>
+    <ion-content padding="false" class="side-menu-left has-header ">
+      <ion-list id="menu-list1">
+        <ion-item class="item-icon-right positive" id="menu-list-item4" ui-sref="menu.home" menu-close="" style="">Home
+          <i class="icon ion-home"></i>
+          <ion-option-button class="button-positive"></ion-option-button>
+        </ion-item>
+        <ion-item class="item-icon-right positive" id="menu-list-item1" ui-sref="menu.payment" menu-close="" style="">Payment
+          <i class="icon ion-cash"></i>
+        </ion-item>
+        <ion-item class="item-icon-right positive" id="menu-list-item2" ui-sref="menu.trips" menu-close="" style="">Trips
+          <i class="icon ion-android-car"></i>
+        </ion-item>
+        <ion-item class="item-icon-right dark" id="menu-list-item3" ui-sref="menu.history" menu-close="" style="">History
+          <i class="icon ion-ios-list"></i>
+        </ion-item>
+      </ion-list>
+    </ion-content>
+  </ion-side-menu>
+</ion-side-menus>
